@@ -7,7 +7,6 @@
     width:100%;
     object-fit: cover;
     background-size: cover;
-    top:0px;
 }
 #content{
     height:100vh;
